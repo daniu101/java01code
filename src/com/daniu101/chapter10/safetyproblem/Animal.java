@@ -5,5 +5,4 @@ public class Animal {
     //身高
     int height;
 
-
 }
