@@ -8,9 +8,9 @@ public abstract class AbstractClass {
     }
 
     //变量
-    private int age;
+    int age;
     //常量
-    private static  int weight;
+    final int weight = 0;
 
     //成员方法
     public void run(){
